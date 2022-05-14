@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectGUI:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectGUI_jar2</output-path>
+    <root id="archive" name="ProjectGUI.jar">
+      <element id="module-output" name="ProjectGUI" />
+      <element id="library" level="project" name="jgoodiesDataBinding" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mssql-jdbc-8.4.1.jre11.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mssql-jdbc-8.4.1.jre111" />
+    </root>
+  </artifact>
+</component>
